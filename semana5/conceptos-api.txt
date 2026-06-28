@@ -1,7 +1,3 @@
-¿Qué es una API?
+La ruta POST /reporte recibe información enviada por el usuario en formato JSON y responde confirmando que el reporte fue recibido.
 
-Una API (Application Programming Interface) es un conjunto de reglas que permite que diferentes aplicaciones se comuniquen entre sí e intercambien información de forma segura y organizada.
-
-¿Qué es Express?
-
-Express es un framework para Node.js que facilita la creación de servidores web y APIs mediante una estructura sencilla y rápida.
+En una aplicación comunitaria podría utilizarse para que los ciudadanos envíen reportes sobre problemas, emergencias, daños en vías, fallas en servicios públicos o cualquier situación que requiera atención.
