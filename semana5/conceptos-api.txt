@@ -1,0 +1,7 @@
+¿Qué es una API?
+
+Una API (Application Programming Interface) es un conjunto de reglas que permite que diferentes aplicaciones se comuniquen entre sí e intercambien información de forma segura y organizada.
+
+¿Qué es Express?
+
+Express es un framework para Node.js que facilita la creación de servidores web y APIs mediante una estructura sencilla y rápida.
