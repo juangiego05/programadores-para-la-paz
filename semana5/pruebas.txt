@@ -1,0 +1,9 @@
+Pruebas realizadas:
+
+1. Se inició el servidor correctamente.
+2. Se accedió a la ruta principal (/).
+3. La respuesta fue:
+"¡Hola! Bienvenido a mi API con Express."
+
+Resultado:
+Las pruebas fueron satisfactorias.
