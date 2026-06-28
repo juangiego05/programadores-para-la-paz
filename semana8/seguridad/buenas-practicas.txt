@@ -1,3 +1,0 @@
-1. Proteger las contraseñas y utilizar claves seguras.
-2. No compartir credenciales de acceso con otras personas.
-3. Mantener el sistema operativo y las aplicaciones actualizadas.
