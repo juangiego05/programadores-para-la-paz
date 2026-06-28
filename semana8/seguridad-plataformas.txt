@@ -1,0 +1,7 @@
+Buenas prácticas de seguridad para plataformas comunitarias:
+
+1. Utilizar contraseñas seguras y cambiarlas periódicamente.
+2. Mantener el sistema operativo y las aplicaciones actualizadas.
+3. Realizar copias de seguridad de la información.
+4. Limitar los permisos de acceso según el rol de cada usuario.
+5. Monitorear el sistema para detectar actividades sospechosas y responder oportunamente.
