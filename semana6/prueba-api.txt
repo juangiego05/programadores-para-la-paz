@@ -1,0 +1,11 @@
+Prueba 1:
+Ruta: GET /
+Resultado: El servidor responde con el mensaje "Servidor activo".
+
+Prueba 2:
+Ruta: GET /incidencias
+Resultado: El servidor devuelve la lista de incidencias en formato JSON.
+
+Prueba 3:
+Ruta: POST /incidencias
+Resultado: El servidor recibe una incidencia y responde con un mensaje de confirmación.
