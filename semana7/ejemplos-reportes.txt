@@ -1,0 +1,11 @@
+Reporte 1:
+{
+  "tipo": "Alumbrado público",
+  "descripcion": "Una luminaria del parque principal está dañada."
+}
+
+Reporte 2:
+{
+  "tipo": "Basuras",
+  "descripcion": "Hay acumulación de residuos en la cancha del barrio."
+}
