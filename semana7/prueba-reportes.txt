@@ -1,11 +1,1 @@
-Prueba 1:
-Ruta: GET /reportes
-Resultado: El servidor devuelve la lista de reportes registrados.
-
-Prueba 2:
-Ruta: POST /reportes
-Resultado: El servidor registra un nuevo reporte y devuelve un mensaje de confirmación.
-
-Prueba 3:
-Verificación:
-El reporte queda almacenado correctamente en el servidor.
+Al consultar la ruta GET /reportes, el servidor devuelve la lista de reportes registrados en memoria. Si ya se enviaron reportes mediante la ruta POST /reportes, estos aparecen organizados en formato JSON. Si aún no se ha registrado ningún reporte, la respuesta será un arreglo vacío ([]).
