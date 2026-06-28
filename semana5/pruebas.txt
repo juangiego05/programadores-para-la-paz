@@ -1,9 +1,11 @@
-Pruebas realizadas:
+Prueba 1:
+Ruta: /
+Resultado: El servidor responde con el mensaje "Servidor activo".
 
-1. Se inició el servidor correctamente.
-2. Se accedió a la ruta principal (/).
-3. La respuesta fue:
-"¡Hola! Bienvenido a mi API con Express."
+Prueba 2:
+Ruta: /saludo
+Resultado: El servidor responde con el mensaje "Hola comunidad".
 
-Resultado:
-Las pruebas fueron satisfactorias.
+Prueba 3:
+Ruta: /mensaje/juan
+Resultado: El servidor responde con el mensaje "Hola juan".
