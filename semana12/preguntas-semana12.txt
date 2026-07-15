@@ -1,1 +1,9 @@
+SEMANA 12 - Preguntas de selección múltiple
 
+1. B. Una herramienta simple para que una comunidad registre apoyos a una causa y genere una petición formal.
+
+2. B. Convertir la información registrada en un documento formal que pueda ser compartido o presentado.
+
+3. A. Para evitar almacenar información innecesaria o sensible.
+
+4. A. Enviar notificaciones automáticas cuando ocurre un evento en el sistema.
