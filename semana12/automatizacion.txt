@@ -1,0 +1,12 @@
+AUTOMATIZACIÓN DEL SISTEMA "PETICIÓN EN 3 CLICS"
+
+Herramienta utilizada: Telegram
+
+Evento que activa la automatización:
+Cada vez que un ciudadano registra una nueva causa en la plataforma.
+
+Mensaje que se envía:
+"Se ha registrado una nueva petición ciudadana en la plataforma 'Petición en 3 Clics'. Ingrese al sistema para revisar la información y realizar el seguimiento correspondiente."
+
+Información que no debe enviarse por seguridad:
+No se deben compartir datos personales como números de identificación, direcciones, teléfonos, correos electrónicos, comentarios privados o cualquier otra información sensible de los ciudadanos.
