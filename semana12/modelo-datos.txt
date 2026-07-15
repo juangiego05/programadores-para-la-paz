@@ -1,0 +1,25 @@
+MODELO DE DATOS DEL SISTEMA "PETICIÓN EN 3 CLICS"
+
+Entidad: Causa
+
+Campos:
+- id
+- titulo
+- descripcion
+- fecha
+
+Descripción:
+La entidad Causa almacena la información principal de cada petición creada por un ciudadano. Permite registrar el tema de la solicitud, su descripción y la fecha en que fue publicada.
+
+--------------------------------------------
+
+Entidad: Apoyo
+
+Campos:
+- id
+- causa_id
+- nombre
+- fecha
+
+Descripción:
+La entidad Apoyo registra a las personas que respaldan una causa. El campo causa_id relaciona cada apoyo con la petición correspondiente, permitiendo contabilizar los respaldos recibidos de manera organizada.
